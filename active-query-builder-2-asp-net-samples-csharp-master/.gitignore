@@ -1,0 +1,11 @@
+.vs
+*.csproj.user
+**/js/*
+**/img/*
+**/css/*
+**/_/*
+UpgradeLog.htm
+packages
+bin
+obj
+Log.txt
